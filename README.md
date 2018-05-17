@@ -87,4 +87,21 @@ btn.onclick = function () {
 
 };
 ```
+### $._gttr()
+thi`s function get getAttribute value 
+example to use 
+```javascript
+var x=$._gttr('#SearshText','placeholder'),
+    x2=$._gttr('#SearshText','value'),
+    x3=$._gttr('#SearshText','name');
+$.sc(x);
+$.sc(x2);
+$.sc(x3);
+```
+### $._sttr()
+thi`s function set Attribute in element 
+example to use 
+```javascript
+$._sttr('#SearshText','class');
+```
 and more 
