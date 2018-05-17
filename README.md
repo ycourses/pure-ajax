@@ -8,7 +8,7 @@ AQS AJAX library
 Ex 1 use ajax
 include library file
 ```
-    <script src="scr/AQs.js"></script>
+    <script src="src/AQs.js"></script>
 
 ```
 add to index file 
