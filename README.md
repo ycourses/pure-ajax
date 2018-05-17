@@ -14,7 +14,8 @@ include library file
 add to index file 
 
 ```
-<input required="" type="text" class="form-control" name="Username" id="Username" placeholder="userName"   value="">
+<input required="" type="text" class="form-control" name="Username"
+ id="Username" placeholder="userName"   value="">
 <div id="result"></div>
 <div id="result2"></div>
 ```
