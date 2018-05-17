@@ -54,4 +54,11 @@ use .class #id
 $.$('#userName');
 var x =$.$('#userName');
 ```
+### $.sc()
+print Result to console
+```javascript
+$.sc('Hello Ajax ')
+// or use 
+$.sc(Msg);
+```
 and more 
