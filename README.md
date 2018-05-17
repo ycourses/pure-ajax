@@ -19,7 +19,7 @@ add to index file
 <div id="result2"></div>
 ```
 ## javascript code 
-```
+```javascript
 <script type="text/javascript">
     var axjson = $.$("#Username");
     var result = $.$("#result");
@@ -60,5 +60,9 @@ print Result to console
 $.sc('Hello Ajax ')
 // or use 
 $.sc(Msg);
+    //example
+    var btc=9850, walt=5;
+    $.sc(9000*5);
+    $.sc(btc*walt);
 ```
 and more 
