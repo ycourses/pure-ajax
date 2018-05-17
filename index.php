@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>AQs puer javascript Lib</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="scr/AQs.js"></script><!-- JQ admin-->
+    <script src="scr/AQs.js"></script>
 </head>
 <body>
 <h1>AQs Puer javascript ajax Lib </h1>

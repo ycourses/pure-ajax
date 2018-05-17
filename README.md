@@ -7,12 +7,21 @@ cood_ip@hotmail.com
 AQS AJAX LIB
 
 
-exampel 1 use ajax
+Ex 1 use ajax
+incluade lib
+```
+    <script src="scr/AQs.js"></script>
+
+```
+add to index file 
+
 ```
 <input required="" type="text" class="form-control" name="Username" id="Username" placeholder="userName"   value="">
 <div id="result"></div>
 <div id="result2"></div>
-
+```
+## javascript code 
+```
 <script type="text/javascript">
     var axjson = $.$("#Username");
     var result = $.$("#result");
