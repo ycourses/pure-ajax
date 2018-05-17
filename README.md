@@ -4,7 +4,6 @@ Developer by ADham allam
 
 AQS AJAX library
 
-
 Ex 1 use ajax
 include library file
 ```
@@ -36,3 +35,23 @@ add to index file
     });
 </script>
 ```
+## Function in Library 
+### $.AQs()
+this function Ajax use sub parameter 
+```javascript
+$.AQs({type:'POST OR GET',
+url:'use full path or use default',
+data:'use parameter ?user='+user+'&email='+email,
+sucs:function(Msg) { //this function return result 
+  
+}
+})
+```
+### $.$()
+this function use to select any element in page 
+use .class #id
+```javascript
+$.$('#userName');
+var x =$.$('#userName');
+```
+and more 
