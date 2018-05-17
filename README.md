@@ -1,14 +1,12 @@
-# AQS pure-ajax LIB
+# AQS pure ajax library
+Developer by ADham allam
+## V0.1 2018
 
-#Deviloper by ADham allam
-cood_ip@hotmail.com
-# V0.1 2018
-
-AQS AJAX LIB
+AQS AJAX library
 
 
 Ex 1 use ajax
-incluade lib
+include library file
 ```
     <script src="scr/AQs.js"></script>
 
