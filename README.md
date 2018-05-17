@@ -12,8 +12,8 @@ include library file
 ```
 add to index file 
 
-```
-<input required="" type="text" class="form-control" name="Username"
+```haml
+<input type="text" class="form-control" name="Username"
  id="Username" placeholder="userName"   value="">
 <div id="result"></div>
 <div id="result2"></div>
@@ -64,5 +64,27 @@ $.sc(Msg);
     var btc=9850, walt=5;
     $.sc(9000*5);
     $.sc(btc*walt);
+```
+### $._val()
+thi's function get input value 
+Example
+```haml
+<input  type="text" class="form-control" name="SearshText"
+ id="Searsh" placeholder="Searsh..."   value="">
+<button class="btn btn-success" type="button" id="Searsh"> Searsh  </button>
+
+```
+javascript code 
+```javascript
+var btn = $.$('#Searsh'), searsh, e;
+btn.onclick = function () {
+    'use strict';
+    searsh = $._val("#SearshText");
+    
+    $.AQs({type: 'GET', url: 'Search.php?', data: 'SE=' + searsh, sucs: function (Msg) {
+        $.$('#result').innerHTML = Msg;
+    } });
+
+};
 ```
 and more 
