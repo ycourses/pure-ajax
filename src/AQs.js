@@ -5,7 +5,11 @@
 alert, confirm, console, Debug, opera, prompt */
 /*jslint evil: true, plusplus: true */
 //document.addEventListener('DOMContentLoaded', function () {
-//3/5/2018
+/*
+Deviloper by ADham allam
+cood_ip@hotmail.com
+V0.1 2018
+*/
 var   req, xmlHttp = null, output, AttributeObject;
 
 var $ = {
@@ -13,14 +17,14 @@ var $ = {
         "use strict";//request processing
         var v1;
         switch (usr) {
-        case 0:
-            v1 = true;
-            break;
-        case 1:
-            v1 = false;//Asynchronous
-            break;
-        default:
-            v1 = true;
+            case 0:
+                v1 = true;
+                break;
+            case 1:
+                v1 = false;//Asynchronous
+                break;
+            default:
+                v1 = true;
         }
         $.sc("send req=" + v1);
         return v1;
@@ -35,14 +39,14 @@ var $ = {
         }
         //cmsg = 1;
         if (m.imsg === 1) {
-            
+
             msg = xmlHttp.readyState;
             if (msg === 0) {msg = "uninitialized"; $.sc("Msg status=" + msg); }
             if (msg === 1) {msg = "loading"; $.sc("Msg status=" + msg); }
             if (msg === 2) {msg = "loaded"; $.sc("Msg status=" + msg);  }
             if (msg === 3) {msg = "interactive"; $.sc("Msg status=" + msg); }
             if (msg === 4) {msg = "completed"; $.sc("Msg status=" + msg); xmlHttp.abort(); }
-            
+
             return msg;
         }
         if (m.imsg === 2) {msg = "Plese wait ..";  }
@@ -54,14 +58,14 @@ var $ = {
         "use strict";
 
         switch (resType) {
-        case 'txt':
-            req = xmlHttp.responseText;
-            break;
-        case 'Xml':
-            req = xmlHttp.responseXml;
-            break;
-        default:
-            req = xmlHttp.responseText;
+            case 'txt':
+                req = xmlHttp.responseText;
+                break;
+            case 'Xml':
+                req = xmlHttp.responseXml;
+                break;
+            default:
+                req = xmlHttp.responseText;
         }
         //$.sc("resType output=" + req);
         return req;
@@ -71,28 +75,28 @@ var $ = {
         var nt = new Date().getTime(), ncsh, ResultCash;
         ncsh = parseInt(Math.random() * nt, 10);
         switch (cashe) {
-        case 0:
-            ResultCash =  "&c=" + ncsh;
-            break;
-        case 1:
-            ResultCash = "";
-            break;
-        default:
-            ResultCash =  "&c=" + ncsh;
+            case 0:
+                ResultCash =  "&c=" + ncsh;
+                break;
+            case 1:
+                ResultCash = "";
+                break;
+            default:
+                ResultCash =  "&c=" + ncsh;
         }
-        $.sc("REcashe=" + ResultCash);
+        // $.sc("REcashe=" + ResultCash);
         return ResultCash;
-        
+
     },
     response_engen: function (sucs, resType) {
         "use strict";
-         if (xmlHttp.readyState === 4) {
+        if (xmlHttp.readyState === 4) {
             if (xmlHttp.status === 200) {
                 output = this.resType_output(resType);
                 sucs(output);
             }
         }
-//        $.sc("resType output=" + output);
+        //        $.sc("resType output=" + output);
     },
     AQs: function (OBJ) {
         "use strict";
@@ -102,19 +106,19 @@ var $ = {
         if (!OBJ.reqType || !OBJ.reqType.length) {OBJ.reqType = 'txt'; }
         if (!OBJ.imsg || !OBJ.imsg.length) {OBJ.imsg = 1; }
         if (!OBJ.vCash || !OBJ.vCash.length) {OBJ.vCash = 1; }
-     
+
         var  rm, RP = this.Request_processing(0), Cash = $.ref_cashe(OBJ.vCash);
         switch (OBJ.type) {
-        case "GET":
-            rm = "GET";
-            break;
-        case "post":
-            rm = "post";
-            break;
-        default:
-            rm = "post";
+            case "GET":
+                rm = "GET";
+                break;
+            case "POST":
+                rm = "POST";
+                break;
+            default:
+                rm = "POST";
         }
-//        var xmlHttp = null;
+        //        var xmlHttp = null;
         xmlHttp = new XMLHttpRequest();
         /*    if (xmlHttp.xmlHttpRequest) {
         // If IE7, Mozilla, Safari, and so on: Use native object.
@@ -127,27 +131,20 @@ var $ = {
                 xmlHttp = new window.ActiveXObject("Microsoft.xmlHttp");
             }
         }*/
-        xmlHttp.onreadystatechange = function () {$.response_engen(OBJ.sucs, OBJ.reqType);
-             $.msg_status(OBJ);
-             
-
-            };
+        xmlHttp.onreadystatechange = function () {$.response_engen(OBJ.sucs, OBJ.reqType);   $.msg_status(OBJ);         };
         xmlHttp.open(rm, OBJ.url + OBJ.data + Cash, RP);
+        if(OBJ.reqType === "POST"){
+            xmlHttp.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+        }
+
         xmlHttp.send(null);
-        /*$.sc("type = " + OBJ.type);
-        $.sc("url = " + OBJ.url);
-        $.sc("data = " + OBJ.data);
-        $.sc("pagElemnt = " + OBJ.pagElemnt);
-        $.sc("reqType = " + OBJ.reqType);
-        $.sc("imsg = " + OBJ.imsg);
-        $.sc("vCash = " + OBJ.vCash);*/
-       // OBJ.sucs();
+        // OBJ.sucs();
     },
     _val: function (e) {
         "use strict";
         var v = document.querySelector(e).value;
         return v;
-         
+
     },
     _gttr: function (id, a) {
         "use strict";
@@ -155,24 +152,24 @@ var $ = {
         return atr;
     },
     Ctxt:function (EL_) {
-                "use strict";
-                return EL_.textContent;
-     },
-     $: function (selector) {
-         'use strict';
-         AttributeObject = document.querySelector(selector);
-         return AttributeObject;
-     },
-     _sttr: function (selector, Attribute) {
-         'use strict';
-         selector.setAttribute(Attribute[0], Attribute[1]);
-     },
-     sc: function (e) {
         "use strict";
-     /* eslint-disable no-console */
+        return EL_.textContent;
+    },
+    $: function (selector) {
+        'use strict';
+        AttributeObject = document.querySelector(selector);
+        return AttributeObject;
+    },
+    _sttr: function (selector, Attribute) {
+        'use strict';
+        selector.setAttribute(Attribute[0], Attribute[1]);
+    },
+    sc: function (e) {
+        "use strict";
+        /* eslint-disable no-console */
         console.log(e);
-    /* eslint-enable no-console */
+        /* eslint-enable no-console */
     }
-   
+
 };
 
