@@ -140,16 +140,13 @@ var $ = {
         xmlHttp.send(null);
         // OBJ.sucs();
     },
-    _val: function (e) {
+    _val: function (selector) {
         "use strict";
-        var v = document.querySelector(e).value;
-        return v;
-
+        return $.$(selector).value;
     },
     gTr: function (selector, a) {
         "use strict";
       var  eL=$.$(selector).getAttribute(a);
-       // var atr = document.getElementById(id).getAttribute(a);
         return eL;
     },
     cTxt:function (selector) {

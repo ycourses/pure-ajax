@@ -9,7 +9,8 @@
 </head>
 <body>
 <h1>AQs Puer javascript ajax Lib </h1>
-<input required="" type="text" class="form-control" name="Username" id="Username" placeholder="Enter user name..."   value="">
+<input   type="text" class="form-control" name="Username" id="Username" placeholder="Enter user name..."   value="">
+<input   type="text" class="Search" name="Search" id="Search" placeholder="Enter Search value..."   value="">
 <div id="result"></div>
 <div id="result2">Hello whorled 2018</div>
 <div id="res1" class="Re1"></div>
@@ -43,6 +44,10 @@
     var ct2 = $.cTxt('#result2');
     $.sc(ct2);
     $.$('.Re1').innerHTML=ct;
+    var Search =$.$('#Search');
+    Search.addEventListener("blur", function() {
+       $.$('.Re1').innerHTML= $._val('#Search');
+    })
 </script>
 </body>
 </html>

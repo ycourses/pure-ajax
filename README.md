@@ -85,6 +85,17 @@ btn.onclick = function () {
 
 };
 ```
+more example 
+```haml
+<input type="text" class="Search" name="Search" id="Search" placeholder="Enter Search value..."   value="">
+
+```
+```javascript
+    var Search =$.$('#Search');
+    Search.addEventListener("blur", function() {
+       $.$('.Re1').innerHTML= $._val('#Search');
+    })
+```
 ### $.gTr()
 This function get getAttribute value 
 example to use 
