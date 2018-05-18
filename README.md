@@ -119,6 +119,9 @@ This function is the work of the impact of the typewriter, Writing
 Take some variables when used
 this method is used
 ```haml
+TextArray, Repeat, SpedTying, selector
+```
+```haml
 <div id="typing_txt"></div>
 ```
 example to use Typing
