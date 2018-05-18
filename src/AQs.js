@@ -6,7 +6,7 @@ alert, confirm, console, Debug, opera, prompt */
 /*jslint evil: true, plusplus: true */
 //document.addEventListener('DOMContentLoaded', function () {
 /*
-Deviloper by ADham allam
+Developer by ADham allam
 cood_ip@hotmail.com
 V0.1 2018
 */
