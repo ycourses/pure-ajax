@@ -169,6 +169,32 @@ var $ = {
         /* eslint-disable no-console */
         console.log(e);
         /* eslint-enable no-console */
+    },
+    typing: function (Taray, Repeat, SpedTipe, selector) {
+        'use strict';
+        var MainArayLength = Taray.length,
+            v = 0,//عداد البداء من اول صف فى المصفوفة
+            shid = document.querySelector(selector),
+            Yin = setInterval(function () { // دالة طباعة اسطر المصفوفة حسب طول المصفوفة
+                var ic = 0, clerline, myTr =  Taray[v],
+                    styping = setInterval(function () {shid.textContent += myTr[ic];
+                        ic++;
+                        if (ic >= myTr.length) {clearInterval(styping);
+                            clerline = setInterval(function () {shid.innerHTML = myTr.substring(0, ic);
+                                ic--;
+                                if (ic <= -1) {clearInterval(clerline); }
+                                return clerline;
+                            }, SpedTipe);
+                        }
+                        return styping;
+                    }, SpedTipe);
+                v++;// زيادة العداد بواحد
+                if (v >= MainArayLength) { // التوقف فى حالة اﻹنتهاء من جميع السطور
+                    if (Repeat === true) {v = 0; } else {clearInterval(Yin); }
+                }
+                ic = 0;
+                return Yin;
+            }, Taray[v].length * 2 * SpedTipe);// الوقت فى كتابة كل سطر حسب الكتابة والمسح
     }
 
 };

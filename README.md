@@ -88,7 +88,7 @@ btn.onclick = function () {
 };
 ```
 ### $.gTr()
-thi`s function get getAttribute value 
+This function get getAttribute value 
 example to use 
 ```javascript
 var  x=$.gTr('#SearshText','placeholder'),
@@ -99,13 +99,13 @@ $.sc(x2);
 $.sc(x3);
 ```
 ### $.sTr()
-thi`s function set Attribute in element 
+This function set Attribute in element 
 example to use 
 ```javascript
 $.sTr('#SearshText','class');
 ```
 ### $.cTxt()
-thi`s function get text in element
+This function get text in element
 example to use function 
 ```haml
 <div id="result2">Hello world 2018</div>
@@ -113,5 +113,24 @@ example to use function
 ```javascript
 var e =$.$('#result2'),
  v=$.cTxt(e);
+```
+### $.typing()
+This function is the work of the impact of the typewriter, Writing
+Take some variables when used
+this method is used
+```haml
+<div id="typing_txt"></div>
+```
+example to use Typing
+```javascript
+window.onload = function () {
+    'use strict';
+    $.typing([
+        'The impact of the writer god typing experience practical example 1',
+        'typing experience the impact of the god of the writer practical example 2',
+        'typing experience the impact of the god of the writer practical example 3'
+        ], true, 100, '#typing_txt');
+};
+
 ```
 and more 
