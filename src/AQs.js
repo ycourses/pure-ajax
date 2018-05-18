@@ -146,12 +146,12 @@ var $ = {
         return v;
 
     },
-    _gttr: function (id, a) {
+    gTr: function (id, a) {
         "use strict";
         var atr = document.getElementById(id).getAttribute(a);
         return atr;
     },
-    Ctxt:function (EL_) {
+    cTxt:function (EL_) {
         "use strict";
         return EL_.textContent;
     },
@@ -160,7 +160,7 @@ var $ = {
         AttributeObject = document.querySelector(selector);
         return AttributeObject;
     },
-    _sttr: function (selector, Attribute) {
+    sTr: function (selector, Attribute) {
         'use strict';
         selector.setAttribute(Attribute[0], Attribute[1]);
     },

@@ -11,7 +11,7 @@
 <h1>AQs Puer javascript ajax Lib </h1>
 <input required="" type="text" class="form-control" name="Username" id="Username" placeholder="userName"   value="">
 <div id="result"></div>
-<div id="result2"></div>
+<div id="result2">Hello whorled 2018</div>
 
 <script type="text/javascript">
     var axjson = $.$("#Username");
@@ -28,6 +28,10 @@
 
         });
     });
+    //example
+    var btc=9850, walt=5;
+    $.sc(9000*5);
+    $.sc(btc*walt);
 </script>
 </body>
 </html>

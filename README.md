@@ -87,21 +87,31 @@ btn.onclick = function () {
 
 };
 ```
-### $._gttr()
+### $.gTr()
 thi`s function get getAttribute value 
 example to use 
 ```javascript
-var x=$._gttr('#SearshText','placeholder'),
-    x2=$._gttr('#SearshText','value'),
-    x3=$._gttr('#SearshText','name');
+var  x=$.gTr('#SearshText','placeholder'),
+    x2=$.gTr('#SearshText','value'),
+    x3=$.gTr('#SearshText','name');
 $.sc(x);
 $.sc(x2);
 $.sc(x3);
 ```
-### $._sttr()
+### $.sTr()
 thi`s function set Attribute in element 
 example to use 
 ```javascript
-$._sttr('#SearshText','class');
+$.sTr('#SearshText','class');
+```
+### $.cTxt()
+thi`s function get text in element
+example to use function 
+```haml
+<div id="result2">Hello world 2018</div>
+```
+```javascript
+var e =$.$('#result2'),
+ v=$.cTxt(e);
 ```
 and more 
