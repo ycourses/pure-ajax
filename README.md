@@ -118,8 +118,7 @@ example to use function
     var ct = $.cTxt('.Re2');
     var ct2 = $.cTxt('#result2');
     $.sc(ct2);
-    $.$('.Re1').inerHTML=ct;
-    
+    $.$('.Re1').innerHTML=ct;    
 ```
 ### $.typing()
 This function is the work of the impact of the typewriter, Writing

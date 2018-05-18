@@ -42,7 +42,7 @@
     var ct = $.cTxt('.Re2');
     var ct2 = $.cTxt('#result2');
     $.sc(ct2);
-    $.$('.Re1').inerHTML=ct;
+    $.$('.Re1').innerHTML=ct;
 </script>
 </body>
 </html>
