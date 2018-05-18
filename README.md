@@ -20,7 +20,6 @@ add to index file
 ```
 ## javascript code 
 ```javascript
-<script type="text/javascript">
     var axjson = $.$("#Username");
     var result = $.$("#result");
    // var result2 = $.$("#result2");
@@ -33,7 +32,6 @@ add to index file
             }
         });
     });
-</script>
 ```
 ## Function in Library 
 ### $.AQs()
@@ -97,22 +95,31 @@ var  x=$.gTr('#SearshText','placeholder'),
 $.sc(x);
 $.sc(x2);
 $.sc(x3);
+//OR 
+var vl =$.gTr("#Username",'placeholder');
+        $.sc($.gTr("#Username",'placeholder'));
+        alert(vl);
 ```
 ### $.sTr()
 This function set Attribute in element 
 example to use 
 ```javascript
-$.sTr('#SearshText','class');
+    $.sTr('#Username',['placeholder','enter new user name ..']);
 ```
 ### $.cTxt()
 This function get text in element
 example to use function 
 ```haml
-<div id="result2">Hello world 2018</div>
+<div id="res1" class="Re1"></div>
+<div id="res2" class="Re2">Hello ADham Allam 2018</div>
+
 ```
 ```javascript
-var e =$.$('#result2'),
- v=$.cTxt(e);
+    var ct = $.cTxt('.Re2');
+    var ct2 = $.cTxt('#result2');
+    $.sc(ct2);
+    $.$('.Re1').inerHTML=ct;
+    
 ```
 ### $.typing()
 This function is the work of the impact of the typewriter, Writing

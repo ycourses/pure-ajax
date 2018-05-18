@@ -146,14 +146,15 @@ var $ = {
         return v;
 
     },
-    gTr: function (id, a) {
+    gTr: function (selector, a) {
         "use strict";
-        var atr = document.getElementById(id).getAttribute(a);
-        return atr;
+      var  eL=$.$(selector).getAttribute(a);
+       // var atr = document.getElementById(id).getAttribute(a);
+        return eL;
     },
-    cTxt:function (EL_) {
+    cTxt:function (selector) {
         "use strict";
-        return EL_.textContent;
+        return $.$(selector).textContent;
     },
     $: function (selector) {
         'use strict';
@@ -162,7 +163,7 @@ var $ = {
     },
     sTr: function (selector, Attribute) {
         'use strict';
-        selector.setAttribute(Attribute[0], Attribute[1]);
+        $.$(selector).setAttribute(Attribute[0], Attribute[1]);
     },
     sc: function (e) {
         "use strict";
