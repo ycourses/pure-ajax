@@ -87,7 +87,7 @@ btn.onclick = function () {
 ```
 more example 
 ```haml
-<input type="text" class="Search" name="Search" id="Search" placeholder="Enter Search value..."   value="">
+<input type="text" class="Search" name="Search" id="Search" placeholder="Search value..." value="">
 
 ```
 ```javascript
