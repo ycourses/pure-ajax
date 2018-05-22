@@ -44,7 +44,7 @@ sucs:function(Msg) { //this function return result
 }
 })
 ```
-##EX2 to use
+###EX2 to use
 add to index file 
 ```haml
 <input   type="text"  name="Search" id="Search" placeholder="Enter Search value...">

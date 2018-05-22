@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d47cac10-c723-43ab-98c2-097bb47bfdbf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/mac.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Server.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,38 +15,44 @@
     <splitter split-orientation="horizontal" split-proportion="0.6961679">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="1680">
-                    <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+                  <first_editor relative-caret-position="28">
+                    <caret line="46" column="3" lean-forward="false" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
                     <folding>
-                      <marker date="1526649981449" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
-                      <marker date="1526649981449" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
-                      <marker date="1526649981449" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
-                      <marker date="1526649981449" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
-                      <marker date="1526649981449" expanded="true" signature="590:832" ph="{...}" />
-                      <marker date="1526649981449" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
-                      <marker date="1526649981449" expanded="true" signature="712:814" ph="{...}" />
-                      <marker date="1526649981449" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
-                      <marker date="1526649981449" expanded="true" signature="1059:1096" ph="{...}" />
-                      <marker date="1526649981449" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
-                      <marker date="1526649981449" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
-                      <marker date="1526649981449" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
-                      <marker date="1526649981449" expanded="true" signature="1757:1959" ph="{...}" />
-                      <marker date="1526649981449" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
-                      <marker date="1526649981449" expanded="true" signature="1905:1952" ph="{...}" />
-                      <marker date="1526649981449" expanded="true" signature="1987:2086" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
-                      <marker date="1526649981449" expanded="true" signature="2185:2241" ph="{...}" />
-                      <marker date="1526649981449" expanded="true" signature="2822:2834" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-                      <marker date="1526649981449" expanded="true" signature="2822:2855" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
-                      <marker date="1526649981449" expanded="true" signature="2856:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
-                      <marker date="1526649981449" expanded="true" signature="2900:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-                      <marker date="1526649981449" expanded="true" signature="3187:3225" ph="TextArray, Repeat, SpedTying, selector" />
-                      <marker date="1526649981449" expanded="true" signature="3238:3265" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
-                      <marker date="1526649981449" expanded="true" signature="3334:3655" ph="{...}" />
-                      <marker date="1526649981449" expanded="true" signature="3367:3625" ph="[...]" />
+                      <marker date="1527027919522" expanded="true" signature="191:296" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
+                      <marker date="1527027919522" expanded="true" signature="248:296" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="297:320" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="321:345" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="589:831" ph="{...}" />
+                      <marker date="1527027919522" expanded="true" signature="627:823" ph="{&quot;type&quot;: 'post'...}" />
+                      <marker date="1527027919522" expanded="true" signature="711:813" ph="{...}" />
+                      <marker date="1527027919522" expanded="true" signature="932:1097" ph="{&quot;type&quot;: 'POST OR GET'...}" />
+                      <marker date="1527027919522" expanded="true" signature="1058:1095" ph="{...}" />
+                      <marker date="1527027919522" expanded="true" signature="1144:1228" ph="&lt;input   type=&quot;text&quot;  name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Enter Search value...&quot;&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="1229:1274" ph="&lt;button id=&quot;ADDuser&quot;  &gt;add New Usere&lt;/button&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="1275:1308" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="1416:1705" ph="{...}" />
+                      <marker date="1527027919522" expanded="true" signature="1538:1698" ph="{&quot;type&quot;: 'POST'...}" />
+                      <marker date="1527027919522" expanded="true" signature="1630:1688" ph="{...}" />
+                      <marker date="1527027919522" expanded="true" signature="2193:2300" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
+                      <marker date="1527027919522" expanded="true" signature="2253:2300" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="2301:2377" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="2477:2679" ph="{...}" />
+                      <marker date="1527027919522" expanded="true" signature="2548:2674" ph="{&quot;type&quot;: 'GET'...}" />
+                      <marker date="1527027919522" expanded="true" signature="2625:2672" ph="{...}" />
+                      <marker date="1527027919522" expanded="true" signature="2707:2806" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="2905:2961" ph="{...}" />
+                      <marker date="1527027919522" expanded="true" signature="3542:3554" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="3542:3575" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="3576:3631" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="3620:3631" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="3907:3945" ph="TextArray, Repeat, SpedTying, selector" />
+                      <marker date="1527027919522" expanded="true" signature="3958:3985" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
+                      <marker date="1527027919522" expanded="true" signature="4054:4375" ph="{...}" />
+                      <marker date="1527027919522" expanded="true" signature="4087:4345" ph="[...]" />
                     </folding>
                   </first_editor>
                   <second_editor />
@@ -57,11 +60,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="103">
-                  <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+                <state relative-caret-position="163">
+                  <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -98,8 +101,8 @@
           <file leaf-file-name="Server.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Server.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+                <state relative-caret-position="140">
+                  <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="30" />
                   <folding />
                 </state>
               </provider>
@@ -125,9 +128,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/AQs.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Server.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -136,6 +139,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
@@ -217,17 +223,18 @@
       <workItem from="1526670791485" duration="660000" />
       <workItem from="1526727560608" duration="1304000" />
       <workItem from="1527018898416" duration="711000" />
-      <workItem from="1527025721152" duration="1709000" />
+      <workItem from="1527025721152" duration="2195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18586000" />
+    <option name="totallyTimeSpent" value="19072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="25" width="1331" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14708172" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14708172" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -266,31 +273,37 @@
           <first_editor relative-caret-position="1680">
             <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
             <folding>
-              <marker date="1526649981449" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
-              <marker date="1526649981449" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="590:832" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
-              <marker date="1526649981449" expanded="true" signature="712:814" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
-              <marker date="1526649981449" expanded="true" signature="1059:1096" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
-              <marker date="1526649981449" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
-              <marker date="1526649981449" expanded="true" signature="1757:1959" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
-              <marker date="1526649981449" expanded="true" signature="1905:1952" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1987:2086" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2185:2241" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="2822:2834" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2822:2855" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2856:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2900:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="3187:3225" ph="TextArray, Repeat, SpedTying, selector" />
-              <marker date="1526649981449" expanded="true" signature="3238:3265" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="3334:3655" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="3367:3625" ph="[...]" />
+              <marker date="1527027919522" expanded="true" signature="191:296" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
+              <marker date="1527027919522" expanded="true" signature="248:296" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="297:320" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="321:345" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="589:831" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="627:823" ph="{&quot;type&quot;: 'post'...}" />
+              <marker date="1527027919522" expanded="true" signature="711:813" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="932:1097" ph="{&quot;type&quot;: 'POST OR GET'...}" />
+              <marker date="1527027919522" expanded="true" signature="1058:1095" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="1144:1228" ph="&lt;input   type=&quot;text&quot;  name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Enter Search value...&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1229:1274" ph="&lt;button id=&quot;ADDuser&quot;  &gt;add New Usere&lt;/button&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1275:1308" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1416:1705" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="1538:1698" ph="{&quot;type&quot;: 'POST'...}" />
+              <marker date="1527027919522" expanded="true" signature="1630:1688" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2193:2300" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
+              <marker date="1527027919522" expanded="true" signature="2253:2300" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2301:2377" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2477:2679" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2548:2674" ph="{&quot;type&quot;: 'GET'...}" />
+              <marker date="1527027919522" expanded="true" signature="2625:2672" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2707:2806" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2905:2961" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="3542:3554" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3542:3575" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3576:3631" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3620:3631" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3907:3945" ph="TextArray, Repeat, SpedTying, selector" />
+              <marker date="1527027919522" expanded="true" signature="3958:3985" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="4054:4375" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="4087:4345" ph="[...]" />
             </folding>
           </first_editor>
           <second_editor />
@@ -323,31 +336,37 @@
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1526649981449" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
-              <marker date="1526649981449" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="590:832" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
-              <marker date="1526649981449" expanded="true" signature="712:814" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
-              <marker date="1526649981449" expanded="true" signature="1059:1096" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
-              <marker date="1526649981449" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
-              <marker date="1526649981449" expanded="true" signature="1757:1959" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
-              <marker date="1526649981449" expanded="true" signature="1905:1952" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1987:2086" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2185:2241" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="2822:2834" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2822:2855" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2856:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2900:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="3187:3225" ph="TextArray, Repeat, SpedTying, selector" />
-              <marker date="1526649981449" expanded="true" signature="3238:3265" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="3334:3655" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="3367:3625" ph="[...]" />
+              <marker date="1527027919522" expanded="true" signature="191:296" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
+              <marker date="1527027919522" expanded="true" signature="248:296" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="297:320" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="321:345" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="589:831" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="627:823" ph="{&quot;type&quot;: 'post'...}" />
+              <marker date="1527027919522" expanded="true" signature="711:813" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="932:1097" ph="{&quot;type&quot;: 'POST OR GET'...}" />
+              <marker date="1527027919522" expanded="true" signature="1058:1095" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="1144:1228" ph="&lt;input   type=&quot;text&quot;  name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Enter Search value...&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1229:1274" ph="&lt;button id=&quot;ADDuser&quot;  &gt;add New Usere&lt;/button&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1275:1308" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1416:1705" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="1538:1698" ph="{&quot;type&quot;: 'POST'...}" />
+              <marker date="1527027919522" expanded="true" signature="1630:1688" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2193:2300" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
+              <marker date="1527027919522" expanded="true" signature="2253:2300" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2301:2377" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2477:2679" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2548:2674" ph="{&quot;type&quot;: 'GET'...}" />
+              <marker date="1527027919522" expanded="true" signature="2625:2672" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2707:2806" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2905:2961" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="3542:3554" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3542:3575" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3576:3631" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3620:3631" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3907:3945" ph="TextArray, Repeat, SpedTying, selector" />
+              <marker date="1527027919522" expanded="true" signature="3958:3985" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="4054:4375" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="4087:4345" ph="[...]" />
             </folding>
           </first_editor>
           <second_editor />
@@ -380,31 +399,37 @@
           <first_editor relative-caret-position="1680">
             <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
             <folding>
-              <marker date="1526649981449" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
-              <marker date="1526649981449" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="590:832" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
-              <marker date="1526649981449" expanded="true" signature="712:814" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
-              <marker date="1526649981449" expanded="true" signature="1059:1096" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
-              <marker date="1526649981449" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
-              <marker date="1526649981449" expanded="true" signature="1757:1959" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
-              <marker date="1526649981449" expanded="true" signature="1905:1952" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1987:2086" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2185:2241" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="2822:2834" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2822:2855" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2856:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2900:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="3187:3225" ph="TextArray, Repeat, SpedTying, selector" />
-              <marker date="1526649981449" expanded="true" signature="3238:3265" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="3334:3655" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="3367:3625" ph="[...]" />
+              <marker date="1527027919522" expanded="true" signature="191:296" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
+              <marker date="1527027919522" expanded="true" signature="248:296" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="297:320" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="321:345" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="589:831" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="627:823" ph="{&quot;type&quot;: 'post'...}" />
+              <marker date="1527027919522" expanded="true" signature="711:813" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="932:1097" ph="{&quot;type&quot;: 'POST OR GET'...}" />
+              <marker date="1527027919522" expanded="true" signature="1058:1095" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="1144:1228" ph="&lt;input   type=&quot;text&quot;  name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Enter Search value...&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1229:1274" ph="&lt;button id=&quot;ADDuser&quot;  &gt;add New Usere&lt;/button&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1275:1308" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1416:1705" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="1538:1698" ph="{&quot;type&quot;: 'POST'...}" />
+              <marker date="1527027919522" expanded="true" signature="1630:1688" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2193:2300" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
+              <marker date="1527027919522" expanded="true" signature="2253:2300" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2301:2377" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2477:2679" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2548:2674" ph="{&quot;type&quot;: 'GET'...}" />
+              <marker date="1527027919522" expanded="true" signature="2625:2672" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2707:2806" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2905:2961" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="3542:3554" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3542:3575" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3576:3631" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3620:3631" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3907:3945" ph="TextArray, Repeat, SpedTying, selector" />
+              <marker date="1527027919522" expanded="true" signature="3958:3985" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="4054:4375" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="4087:4345" ph="[...]" />
             </folding>
           </first_editor>
           <second_editor />
@@ -437,31 +462,37 @@
           <first_editor relative-caret-position="1680">
             <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
             <folding>
-              <marker date="1526649981449" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
-              <marker date="1526649981449" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="590:832" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
-              <marker date="1526649981449" expanded="true" signature="712:814" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
-              <marker date="1526649981449" expanded="true" signature="1059:1096" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
-              <marker date="1526649981449" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
-              <marker date="1526649981449" expanded="true" signature="1757:1959" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
-              <marker date="1526649981449" expanded="true" signature="1905:1952" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1987:2086" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2185:2241" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="2822:2834" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2822:2855" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2856:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2900:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="3187:3225" ph="TextArray, Repeat, SpedTying, selector" />
-              <marker date="1526649981449" expanded="true" signature="3238:3265" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="3334:3655" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="3367:3625" ph="[...]" />
+              <marker date="1527027919522" expanded="true" signature="191:296" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
+              <marker date="1527027919522" expanded="true" signature="248:296" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="297:320" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="321:345" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="589:831" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="627:823" ph="{&quot;type&quot;: 'post'...}" />
+              <marker date="1527027919522" expanded="true" signature="711:813" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="932:1097" ph="{&quot;type&quot;: 'POST OR GET'...}" />
+              <marker date="1527027919522" expanded="true" signature="1058:1095" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="1144:1228" ph="&lt;input   type=&quot;text&quot;  name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Enter Search value...&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1229:1274" ph="&lt;button id=&quot;ADDuser&quot;  &gt;add New Usere&lt;/button&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1275:1308" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1416:1705" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="1538:1698" ph="{&quot;type&quot;: 'POST'...}" />
+              <marker date="1527027919522" expanded="true" signature="1630:1688" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2193:2300" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
+              <marker date="1527027919522" expanded="true" signature="2253:2300" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2301:2377" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2477:2679" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2548:2674" ph="{&quot;type&quot;: 'GET'...}" />
+              <marker date="1527027919522" expanded="true" signature="2625:2672" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2707:2806" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2905:2961" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="3542:3554" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3542:3575" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3576:3631" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3620:3631" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3907:3945" ph="TextArray, Repeat, SpedTying, selector" />
+              <marker date="1527027919522" expanded="true" signature="3958:3985" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="4054:4375" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="4087:4345" ph="[...]" />
             </folding>
           </first_editor>
           <second_editor />
@@ -500,40 +531,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1680">
-            <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-            <folding>
-              <marker date="1526649981449" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
-              <marker date="1526649981449" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="590:832" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
-              <marker date="1526649981449" expanded="true" signature="712:814" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
-              <marker date="1526649981449" expanded="true" signature="1059:1096" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
-              <marker date="1526649981449" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
-              <marker date="1526649981449" expanded="true" signature="1757:1959" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
-              <marker date="1526649981449" expanded="true" signature="1905:1952" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="1987:2086" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2185:2241" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="2822:2834" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2822:2855" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2856:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="2900:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="3187:3225" ph="TextArray, Repeat, SpedTying, selector" />
-              <marker date="1526649981449" expanded="true" signature="3238:3265" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649981449" expanded="true" signature="3334:3655" ph="{...}" />
-              <marker date="1526649981449" expanded="true" signature="3367:3625" ph="[...]" />
-            </folding>
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -545,11 +547,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="28">
+            <caret line="46" column="3" lean-forward="false" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+            <folding>
+              <marker date="1527027919522" expanded="true" signature="191:296" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
+              <marker date="1527027919522" expanded="true" signature="248:296" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="297:320" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="321:345" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="589:831" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="627:823" ph="{&quot;type&quot;: 'post'...}" />
+              <marker date="1527027919522" expanded="true" signature="711:813" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="932:1097" ph="{&quot;type&quot;: 'POST OR GET'...}" />
+              <marker date="1527027919522" expanded="true" signature="1058:1095" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="1144:1228" ph="&lt;input   type=&quot;text&quot;  name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Enter Search value...&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1229:1274" ph="&lt;button id=&quot;ADDuser&quot;  &gt;add New Usere&lt;/button&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1275:1308" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="1416:1705" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="1538:1698" ph="{&quot;type&quot;: 'POST'...}" />
+              <marker date="1527027919522" expanded="true" signature="1630:1688" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2193:2300" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
+              <marker date="1527027919522" expanded="true" signature="2253:2300" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2301:2377" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2477:2679" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2548:2674" ph="{&quot;type&quot;: 'GET'...}" />
+              <marker date="1527027919522" expanded="true" signature="2625:2672" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="2707:2806" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
+              <marker date="1527027919522" expanded="true" signature="2905:2961" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="3542:3554" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3542:3575" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3576:3631" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3620:3631" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="3907:3945" ph="TextArray, Repeat, SpedTying, selector" />
+              <marker date="1527027919522" expanded="true" signature="3958:3985" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
+              <marker date="1527027919522" expanded="true" signature="4054:4375" ph="{...}" />
+              <marker date="1527027919522" expanded="true" signature="4087:4345" ph="[...]" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
