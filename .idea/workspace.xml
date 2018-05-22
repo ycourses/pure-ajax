@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d47cac10-c723-43ab-98c2-097bb47bfdbf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/mac.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Server.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="$PROJECT_DIR$/src/AQs.js" afterPath="$PROJECT_DIR$/src/AQs.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,75 +15,104 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="57">
-                <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
-                <folding>
-                  <marker date="1526649828750" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
-                  <marker date="1526649828750" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
-                  <marker date="1526649828750" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
-                  <marker date="1526649828750" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
-                  <marker date="1526649828750" expanded="true" signature="590:832" ph="{...}" />
-                  <marker date="1526649828750" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
-                  <marker date="1526649828750" expanded="true" signature="712:814" ph="{...}" />
-                  <marker date="1526649828750" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
-                  <marker date="1526649828750" expanded="true" signature="1059:1096" ph="{...}" />
-                  <marker date="1526649828750" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
-                  <marker date="1526649828750" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
-                  <marker date="1526649828750" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
-                  <marker date="1526649828750" expanded="true" signature="1757:1959" ph="{...}" />
-                  <marker date="1526649828750" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
-                  <marker date="1526649828750" expanded="true" signature="1905:1952" ph="{...}" />
-                  <marker date="1526649828750" expanded="true" signature="1987:2094" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Enter Search value...&quot;   value=&quot;&quot;&gt;" />
-                  <marker date="1526649828750" expanded="true" signature="2193:2249" ph="{...}" />
-                  <marker date="1526649828750" expanded="true" signature="2830:2842" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-                  <marker date="1526649828750" expanded="true" signature="2830:2863" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
-                  <marker date="1526649828750" expanded="true" signature="2864:2919" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
-                  <marker date="1526649828750" expanded="true" signature="2908:2919" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-                  <marker date="1526649828750" expanded="true" signature="3195:3233" ph="TextArray, Repeat, SpedTying, selector" />
-                  <marker date="1526649828750" expanded="true" signature="3246:3273" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
-                  <marker date="1526649828750" expanded="true" signature="3342:3663" ph="{...}" />
-                  <marker date="1526649828750" expanded="true" signature="3375:3633" ph="[...]" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AQs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AQs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="142" column="8" lean-forward="false" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="8" />
-              <folding>
-                <element signature="e#4966#5087#0" expanded="false" />
-                <element signature="e#5245#5377#0" expanded="false" />
-                <element signature="e#5436#6720#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.6961679">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="1680">
+                    <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+                    <folding>
+                      <marker date="1526649981449" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
+                      <marker date="1526649981449" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
+                      <marker date="1526649981449" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
+                      <marker date="1526649981449" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
+                      <marker date="1526649981449" expanded="true" signature="590:832" ph="{...}" />
+                      <marker date="1526649981449" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
+                      <marker date="1526649981449" expanded="true" signature="712:814" ph="{...}" />
+                      <marker date="1526649981449" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
+                      <marker date="1526649981449" expanded="true" signature="1059:1096" ph="{...}" />
+                      <marker date="1526649981449" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
+                      <marker date="1526649981449" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
+                      <marker date="1526649981449" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
+                      <marker date="1526649981449" expanded="true" signature="1757:1959" ph="{...}" />
+                      <marker date="1526649981449" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
+                      <marker date="1526649981449" expanded="true" signature="1905:1952" ph="{...}" />
+                      <marker date="1526649981449" expanded="true" signature="1987:2086" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
+                      <marker date="1526649981449" expanded="true" signature="2185:2241" ph="{...}" />
+                      <marker date="1526649981449" expanded="true" signature="2822:2834" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+                      <marker date="1526649981449" expanded="true" signature="2822:2855" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+                      <marker date="1526649981449" expanded="true" signature="2856:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
+                      <marker date="1526649981449" expanded="true" signature="2900:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+                      <marker date="1526649981449" expanded="true" signature="3187:3225" ph="TextArray, Repeat, SpedTying, selector" />
+                      <marker date="1526649981449" expanded="true" signature="3238:3265" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
+                      <marker date="1526649981449" expanded="true" signature="3334:3655" ph="{...}" />
+                      <marker date="1526649981449" expanded="true" signature="3367:3625" ph="[...]" />
+                    </folding>
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="103">
+                  <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Server.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Server.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AQs.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/AQs.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="640">
+                  <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#4966#5087#0" expanded="false" />
+                    <element signature="e#5245#5377#0" expanded="false" />
+                    <element signature="e#5436#6720#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Server.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Server.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>thi`s</find>
+      <find>ADDuser</find>
     </findStrings>
     <replaceStrings>
       <replace>This</replace>
@@ -95,8 +125,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/AQs.js" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Server.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -108,10 +139,13 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="348" />
-    <option name="y" value="78" />
+    <option name="x" value="35" />
+    <option name="y" value="25" />
     <option name="width" value="808" />
     <option name="height" value="643" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -128,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -146,12 +179,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MVCs" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,33 +213,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526628649212</updated>
-      <workItem from="1526628653864" duration="12966000" />
+      <workItem from="1526628653864" duration="14202000" />
+      <workItem from="1526670791485" duration="660000" />
+      <workItem from="1526727560608" duration="1304000" />
+      <workItem from="1527018898416" duration="711000" />
+      <workItem from="1527025721152" duration="1709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12966000" />
+    <option name="totallyTimeSpent" value="18586000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="25" width="1331" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14708172" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14708172" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932332" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2225564" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -222,9 +260,217 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1680">
+            <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+            <folding>
+              <marker date="1526649981449" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
+              <marker date="1526649981449" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="590:832" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
+              <marker date="1526649981449" expanded="true" signature="712:814" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
+              <marker date="1526649981449" expanded="true" signature="1059:1096" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
+              <marker date="1526649981449" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
+              <marker date="1526649981449" expanded="true" signature="1757:1959" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
+              <marker date="1526649981449" expanded="true" signature="1905:1952" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1987:2086" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2185:2241" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="2822:2834" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2822:2855" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2856:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2900:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="3187:3225" ph="TextArray, Repeat, SpedTying, selector" />
+              <marker date="1526649981449" expanded="true" signature="3238:3265" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="3334:3655" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="3367:3625" ph="[...]" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/AQs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
+        <state relative-caret-position="640">
+          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="e#4966#5087#0" expanded="false" />
+            <element signature="e#5245#5377#0" expanded="false" />
+            <element signature="e#5436#6720#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="54" column="32" lean-forward="false" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1526649981449" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
+              <marker date="1526649981449" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="590:832" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
+              <marker date="1526649981449" expanded="true" signature="712:814" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
+              <marker date="1526649981449" expanded="true" signature="1059:1096" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
+              <marker date="1526649981449" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
+              <marker date="1526649981449" expanded="true" signature="1757:1959" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
+              <marker date="1526649981449" expanded="true" signature="1905:1952" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1987:2086" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2185:2241" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="2822:2834" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2822:2855" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2856:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2900:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="3187:3225" ph="TextArray, Repeat, SpedTying, selector" />
+              <marker date="1526649981449" expanded="true" signature="3238:3265" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="3334:3655" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="3367:3625" ph="[...]" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AQs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="e#4966#5087#0" expanded="false" />
+            <element signature="e#5245#5377#0" expanded="false" />
+            <element signature="e#5436#6720#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1680">
+            <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+            <folding>
+              <marker date="1526649981449" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
+              <marker date="1526649981449" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="590:832" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
+              <marker date="1526649981449" expanded="true" signature="712:814" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
+              <marker date="1526649981449" expanded="true" signature="1059:1096" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
+              <marker date="1526649981449" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
+              <marker date="1526649981449" expanded="true" signature="1757:1959" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
+              <marker date="1526649981449" expanded="true" signature="1905:1952" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1987:2086" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2185:2241" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="2822:2834" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2822:2855" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2856:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2900:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="3187:3225" ph="TextArray, Repeat, SpedTying, selector" />
+              <marker date="1526649981449" expanded="true" signature="3238:3265" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="3334:3655" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="3367:3625" ph="[...]" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AQs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="e#4966#5087#0" expanded="false" />
+            <element signature="e#5245#5377#0" expanded="false" />
+            <element signature="e#5436#6720#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1680">
+            <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+            <folding>
+              <marker date="1526649981449" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
+              <marker date="1526649981449" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="590:832" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
+              <marker date="1526649981449" expanded="true" signature="712:814" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
+              <marker date="1526649981449" expanded="true" signature="1059:1096" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
+              <marker date="1526649981449" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
+              <marker date="1526649981449" expanded="true" signature="1757:1959" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
+              <marker date="1526649981449" expanded="true" signature="1905:1952" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1987:2086" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2185:2241" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="2822:2834" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2822:2855" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2856:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2900:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="3187:3225" ph="TextArray, Repeat, SpedTying, selector" />
+              <marker date="1526649981449" expanded="true" signature="3238:3265" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="3334:3655" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="3367:3625" ph="[...]" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AQs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2840">
           <caret line="142" column="8" lean-forward="false" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="8" />
           <folding>
             <element signature="e#4966#5087#0" expanded="false" />
@@ -236,46 +482,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="6" column="72" lean-forward="true" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AQs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="e#4966#5087#0" expanded="false" />
+            <element signature="e#5245#5377#0" expanded="false" />
+            <element signature="e#5436#6720#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+          <first_editor relative-caret-position="1680">
+            <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
             <folding>
-              <marker date="1526649828750" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
-              <marker date="1526649828750" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649828750" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649828750" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649828750" expanded="true" signature="590:832" ph="{...}" />
-              <marker date="1526649828750" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
-              <marker date="1526649828750" expanded="true" signature="712:814" ph="{...}" />
-              <marker date="1526649828750" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
-              <marker date="1526649828750" expanded="true" signature="1059:1096" ph="{...}" />
-              <marker date="1526649828750" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
-              <marker date="1526649828750" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649828750" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
-              <marker date="1526649828750" expanded="true" signature="1757:1959" ph="{...}" />
-              <marker date="1526649828750" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
-              <marker date="1526649828750" expanded="true" signature="1905:1952" ph="{...}" />
-              <marker date="1526649828750" expanded="true" signature="1987:2094" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Enter Search value...&quot;   value=&quot;&quot;&gt;" />
-              <marker date="1526649828750" expanded="true" signature="2193:2249" ph="{...}" />
-              <marker date="1526649828750" expanded="true" signature="2830:2842" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-              <marker date="1526649828750" expanded="true" signature="2830:2863" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649828750" expanded="true" signature="2864:2919" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
-              <marker date="1526649828750" expanded="true" signature="2908:2919" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
-              <marker date="1526649828750" expanded="true" signature="3195:3233" ph="TextArray, Repeat, SpedTying, selector" />
-              <marker date="1526649828750" expanded="true" signature="3246:3273" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
-              <marker date="1526649828750" expanded="true" signature="3342:3663" ph="{...}" />
-              <marker date="1526649828750" expanded="true" signature="3375:3633" ph="[...]" />
+              <marker date="1526649981449" expanded="true" signature="192:297" ph="&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;Username&quot;" />
+              <marker date="1526649981449" expanded="true" signature="249:297" ph="id=&quot;Username&quot; placeholder=&quot;userName&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="298:321" ph="&lt;div id=&quot;result&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="322:346" ph="&lt;div id=&quot;result2&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="590:832" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="628:824" ph="{&quot;type&quot;: 'post'...}" />
+              <marker date="1526649981449" expanded="true" signature="712:814" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="933:1098" ph="{&quot;type&quot;: 'POST OR GET'...}" />
+              <marker date="1526649981449" expanded="true" signature="1059:1096" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1473:1580" ph="&lt;input  type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;SearshText&quot;" />
+              <marker date="1526649981449" expanded="true" signature="1533:1580" ph="id=&quot;Searsh&quot; placeholder=&quot;Searsh...&quot;   value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="1581:1657" ph="&lt;button class=&quot;btn btn-success&quot; type=&quot;button&quot; id=&quot;Searsh&quot;&gt; Searsh  &lt;/button&gt;" />
+              <marker date="1526649981449" expanded="true" signature="1757:1959" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1828:1954" ph="{&quot;type&quot;: 'GET'...}" />
+              <marker date="1526649981449" expanded="true" signature="1905:1952" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="1987:2086" ph="&lt;input type=&quot;text&quot; class=&quot;Search&quot; name=&quot;Search&quot; id=&quot;Search&quot; placeholder=&quot;Search value...&quot; value=&quot;&quot;&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2185:2241" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="2822:2834" ph="&lt;div id=&quot;result2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2822:2855" ph="&lt;div id=&quot;res1&quot; class=&quot;Re1&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2856:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello ADham Allam 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="2900:2911" ph="&lt;div id=&quot;res2&quot; class=&quot;Re2&quot;&gt;Hello world 2018&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="3187:3225" ph="TextArray, Repeat, SpedTying, selector" />
+              <marker date="1526649981449" expanded="true" signature="3238:3265" ph="&lt;div id=&quot;typing_txt&quot;&gt;&lt;/div&gt;" />
+              <marker date="1526649981449" expanded="true" signature="3334:3655" ph="{...}" />
+              <marker date="1526649981449" expanded="true" signature="3367:3625" ph="[...]" />
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

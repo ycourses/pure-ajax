@@ -8,7 +8,6 @@ Ex 1 use ajax
 include library file
 ```
     <script src="src/AQs.js"></script>
-
 ```
 add to index file 
 
@@ -44,6 +43,33 @@ sucs:function(Msg) { //this function return result
   
 }
 })
+```
+##EX2 to use
+add to index file 
+```haml
+<input   type="text"  name="Search" id="Search" placeholder="Enter Search value...">
+<button id="ADDuser"  >add New Usere</button>
+<div id="res1" class="Re1"></div>
+```
+add javascript code 
+```javascript
+    var ADDuser =$.$('#ADDuser');
+    ADDuser.onclick = function () {
+        'use strict';
+        var urls='Server.php',userName =$.$('#Search').value,uN =$._val('#Search');
+        $.AQs({type:'POST',url:urls, data:'?Username='+userName+'&uN='+uN,sucs:function (Msg)
+            {
+                $.$('.Re1').innerHTML=Msg;
+            }
+        })
+    }
+
+```
+add file server.php
+```php
+$un=@$_REQUEST['Username'];
+$un2=@$_REQUEST['uN'];
+echo "<h2>$un &&  $un2 </h2>";
 ```
 ### $.$()
 this function use to select any element in page 
